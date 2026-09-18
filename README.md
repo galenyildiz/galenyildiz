@@ -1,4 +1,5 @@
-## Hi there 👋
+## I'm Galen YILDIZ, a freshman at Bilkent University.
+I'm studying Computer Science.
 
 <!--
 **galenyildiz/galenyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
